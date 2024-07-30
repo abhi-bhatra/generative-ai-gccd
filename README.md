@@ -32,4 +32,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines for more information.
 
 ## Contact
-For questions, issues, or suggestions, please open an issue in this repository or contact [Your Name] at [your.email@example.com].
+For questions, issues, or suggestions, please open an issue in this repository or contact Me.
